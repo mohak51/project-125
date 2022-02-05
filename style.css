@@ -1,0 +1,31 @@
+.heading {
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+}
+
+.note {
+    color: black;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #32a8a8;
+    color: white;
+    text-align: center;
+    line-height: 3;
+    font-size:20;
+    font-family: 'Supermercado One', cursive;
+
+ }
+
+canvas {
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 20px;
+}
